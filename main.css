@@ -9,3 +9,7 @@
 body {
     color: cyan
   }
+
+.bordered {
+    border-style: 2px; color: black
+}
